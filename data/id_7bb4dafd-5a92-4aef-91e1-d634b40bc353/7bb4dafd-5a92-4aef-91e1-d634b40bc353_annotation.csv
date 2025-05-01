@@ -1,0 +1,75 @@
+timestamp,Button Name
+2035-03-23 17:05:09+00:00,Baseline Start (Start of Experiment)
+2035-03-23 17:08:40+00:00,sitting
+2035-03-23 17:15:08+00:00,Baseline Stop
+2035-03-23 17:15:31+00:00,Self-Report: Start
+2035-03-23 17:16:40+00:00,sitting
+2035-03-23 17:16:44+00:00,Self-Report: Stop
+2035-03-23 17:16:47+00:00,Public Speaking: Intro
+2035-03-23 17:18:17+00:00,Public-Preparation: Start
+2035-03-23 17:19:00+00:00,sitting
+2035-03-23 17:19:07+00:00,Comment: Location A
+2035-03-23 17:23:23+00:00,Public-Preparation: Stop
+2035-03-23 17:23:28+00:00,Standing
+2035-03-23 17:23:30+00:00,Walking
+2035-03-23 17:24:21+00:00,Comment: Location B
+2035-03-23 17:24:34+00:00,Public Speaking Start
+2035-03-23 17:25:13+00:00,Comment: bisschen zittern in sprache am anfang
+2035-03-23 17:25:39+00:00,Standing
+2035-03-23 17:26:31+00:00,Comment: unter 5 minuten
+2035-03-23 17:29:26+00:00,Public Speaking Stop
+2035-03-23 17:30:04+00:00,Walking
+2035-03-23 17:30:07+00:00,sitting
+2035-03-23 17:30:13+00:00,Self-Report: Start
+2035-03-23 17:30:47+00:00,Self-Report: Stop
+2035-03-23 17:31:12+00:00,Rest: Start
+2035-03-23 17:32:31+00:00,0
+2035-03-23 17:35:35+00:00,Comment: Location A
+2035-03-23 17:36:12+00:00,Rest: Stop
+2035-03-23 17:36:16+00:00,Physical: Intro
+2035-03-23 17:36:33+00:00,Walking
+2035-03-23 17:36:43+00:00,Standing
+2035-03-23 17:38:54+00:00,Physical: Start
+2035-03-23 17:38:55+00:00,Walking
+2035-03-23 17:39:00+00:00,Warm-Up
+2035-03-23 17:39:39+00:00,Walking
+2035-03-23 17:41:01+00:00,Intensity Increase
+2035-03-23 17:41:49+00:00,Walking
+2035-03-23 17:43:04+00:00,Intensity Increase
+2035-03-23 17:43:11+00:00,Walking
+2035-03-23 17:43:33+00:00,wrong button
+2035-03-23 17:45:09+00:00,Intensity Increase
+2035-03-23 17:45:15+00:00,jogging
+2035-03-23 17:47:20+00:00,Physical: Stop
+2035-03-23 17:47:25+00:00,Walking
+2035-03-23 17:47:49+00:00,sitting
+2035-03-23 17:47:53+00:00,Self-Report: Start
+2035-03-23 17:47:57+00:00,sitting
+2035-03-23 17:48:08+00:00,Self-Report: Stop
+2035-03-23 17:48:26+00:00,Rest: Start
+2035-03-23 17:48:31+00:00,sitting
+2035-03-23 17:53:26+00:00,Rest: Stop
+2035-03-23 17:53:38+00:00,sitting
+2035-03-23 17:53:48+00:00,Cognitive: Introduction
+2035-03-23 17:55:03+00:00,Standing
+2035-03-23 17:55:04+00:00,Walking
+2035-03-23 17:55:10+00:00,Comment: Location B
+2035-03-23 17:55:16+00:00,Standing
+2035-03-23 17:56:06+00:00,Cognitive: Start
+2035-03-23 18:01:28+00:00,Mistake
+2035-03-23 18:01:38+00:00,Mistake
+2035-03-23 18:02:00+00:00,['Baseline Stop']
+2035-03-23 18:03:03+00:00,sitting
+2035-03-23 18:03:08+00:00,Comment: Location A
+2035-03-23 18:03:16+00:00,Self-Report: Start
+2035-03-23 18:03:51+00:00,0
+2035-03-23 18:04:38+00:00,sitting
+2035-03-23 18:04:57+00:00,Self-Report: Stop
+2035-03-23 18:05:14+00:00,sitting
+2035-03-23 18:05:30+00:00,Rest: Start
+2035-03-23 18:07:04+00:00,sitting
+2035-03-23 18:10:32+00:00,Rest: Stop
+2035-03-23 18:10:39+00:00,Debriefing/Recovery Start
+2035-03-23 18:15:07+00:00,sitting
+2035-03-23 18:16:17+00:00,Debriefing/Recovery End
+,Cognitive Stop
