@@ -1,0 +1,53 @@
+timestamp,Button Name
+2035-03-07 17:14:46.382758+00:00,Baseline Start (Start of Experiment)
+2035-03-07 17:15:02.893111+00:00,Sitting
+2035-03-07 17:15:12.104009+00:00,Comment: Location A
+2035-03-07 17:24:54.101066+00:00,Baseline Stop
+2035-03-07 17:25:05.637890+00:00,Self-Report: Start
+2035-03-07 17:25:19.337232+00:00,Self-Report: Stop
+2035-03-07 17:25:21.210790+00:00,Cognitive: Introduction
+2035-03-07 17:26:23.617992+00:00,Standing
+2035-03-07 17:27:40.039697+00:00,Cognitive: Start
+2035-03-07 17:27:51.894086+00:00,Cognitive: Start
+2035-03-07 17:30:10.502560+00:00,Cognitive: Mistake
+2035-03-07 17:30:54.359204+00:00,Cognitive: Mistake
+2035-03-07 17:32:11.313460+00:00,Cognitive: Mistake
+2035-03-07 17:32:33.258014+00:00,Cognitive: Mistake
+2035-03-07 17:32:52.900465+00:00,Cognitive: Stop
+2035-03-07 17:33:21.387334+00:00,Self-Report: Start
+2035-03-07 17:33:34.304372+00:00,Self-Report: Stop
+2035-03-07 17:34:03.900135+00:00,Rest: Start
+2035-03-07 17:35:15.273367+00:00,Comment: participant mentioned that the subtraction in the cognitive task was difficult
+2035-03-07 17:35:20.102732+00:00,Sitting
+2035-03-07 17:39:10.482540+00:00,Rest: Stop
+2035-03-07 17:39:17.914124+00:00,Physical: Introduction
+2035-03-07 17:41:09.769751+00:00,Physical: Start
+2035-03-07 17:41:21.336635+00:00,Physical: Warmup
+2035-03-07 17:41:48.652262+00:00,Comment: Location A
+2035-03-07 17:43:28.888735+00:00,Physical: Intensity increase
+2035-03-07 17:44:38.349265+00:00,Comment: first participant to actually jog a little. The other particpants were just walking fast
+2035-03-07 17:45:35.342899+00:00,Physical: Intensity increase
+2035-03-07 17:45:59.844263+00:00,Comment: light jogging continues
+2035-03-07 17:47:41.827194+00:00,Physical: Intensity increase
+2035-03-07 17:49:44.913382+00:00,Physical: Stop
+2035-03-07 17:50:58.195841+00:00,Self-Report: Start
+2035-03-07 17:51:19.407402+00:00,Self-Report: Stop
+2035-03-07 17:51:48.151130+00:00,Rest: Start
+2035-03-07 17:52:22.737562+00:00,Comment: participant mentioned that the last stage of the physical activity was more like a sprint
+2035-03-07 17:55:45.370811+00:00,Sitting
+2035-03-07 17:56:44.978600+00:00,Rest: Stop
+2035-03-07 17:56:52.910151+00:00,Public Speaking: Introduction
+2035-03-07 17:58:17.462652+00:00,Public Speaking: Preparation Start
+2035-03-07 18:03:19.743338+00:00,Public Speaking: Preparation Stop
+2035-03-07 18:03:23.508470+00:00,Standing
+2035-03-07 18:03:29.188566+00:00,Walking
+2035-03-07 18:03:41.602816+00:00,Standing
+2035-03-07 18:04:05.050063+00:00,Public Speaking Start
+2035-03-07 18:09:09.135463+00:00,Public Speaking Stop
+2035-03-07 18:09:46.131884+00:00,Self-Report: Start
+2035-03-07 18:10:02.505765+00:00,Self-Report: Stop
+2035-03-07 18:10:28.385240+00:00,Rest: Start
+2035-03-07 18:11:09.693267+00:00,Sitting
+2035-03-07 18:15:28.164823+00:00,Rest: Stop
+2035-03-07 18:17:07.933928+00:00,Debriefing/Recovery Start
+2035-03-07 18:18:04.872364+00:00,Debriefing/Recovery Stop (End of Experiment)
