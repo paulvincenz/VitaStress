@@ -1,0 +1,66 @@
+timestamp,Button Name
+2035-02-28 20:15:54.936236+00:00,Baseline Start (Start of Experiment)
+2035-02-28 20:16:07.684273+00:00,Sitting
+2035-02-28 20:16:51.741499+00:00,Comment: participant was a bit late and his breath noticeably a bit heavy. seemed to have hurried up to get to the location
+2035-02-28 20:16:56.278662+00:00,Sitting
+2035-02-28 20:25:06.200275+00:00,Comment: Location A
+2035-02-28 20:25:58.936209+00:00,Baseline Stop
+2035-02-28 20:26:10.648607+00:00,Self-Report: Start
+2035-02-28 20:26:37.694659+00:00,Self-Report: Stop
+2035-02-28 20:26:41.012351+00:00,Sitting
+2035-02-28 20:26:43.381412+00:00,Public Speaking: Introduction
+2035-02-28 20:27:39.927186+00:00,Public Speaking: Preparation Start
+2035-02-28 20:27:44.838495+00:00,Sitting
+2035-02-28 20:27:49.522920+00:00,Comment: Location A
+2035-02-28 20:32:41.364148+00:00,Public Speaking: Preparation Stop
+2035-02-28 20:32:44.068639+00:00,Standing
+2035-02-28 20:33:40.850703+00:00,Public Speaking Start
+2035-02-28 20:34:28.572630+00:00,Comment: ablesen
+2035-02-28 20:37:19.840344+00:00,Comment: unter 5 minuten
+2035-02-28 20:38:40.574547+00:00,Public Speaking Stop
+2035-02-28 20:39:14.271715+00:00,Self-Report: Start
+2035-02-28 20:39:37.944167+00:00,Self-Report: Stop
+2035-02-28 20:39:47.343525+00:00,Rest: Start
+2035-02-28 20:40:03.683749+00:00,Sitting
+2035-02-28 20:40:39.350415+00:00,Comment: Public Speaking preparation in Location A
+2035-02-28 20:40:53.683848+00:00,Comment: Actual Public Speaking Task performed in Location B
+2035-02-28 20:41:17.389802+00:00,Comment: Self-Report and Rest in Location A
+2035-02-28 20:44:54.762879+00:00,Rest: Stop
+2035-02-28 20:45:00.771333+00:00,Standing
+2035-02-28 20:45:35.217018+00:00,Physical: Introduction
+2035-02-28 20:45:36.461057+00:00,Physical Start
+2035-02-28 20:46:19.328458+00:00,Walking
+2035-02-28 20:46:23.586727+00:00,Comment: Location A
+2035-02-28 20:47:43.847388+00:00,Physical: Intensity increase
+2035-02-28 20:49:41.406948+00:00,Physical: Intensity increase
+2035-02-28 20:51:40.903069+00:00,Physical: Intensity increase
+2035-02-28 20:53:53.656341+00:00,Physical: Stop
+2035-02-28 20:54:01.929165+00:00,Standing
+2035-02-28 20:54:12.951845+00:00,Self-Report: Start
+2035-02-28 20:54:28.050698+00:00,Self-Report: Stop
+2035-02-28 20:54:44.716461+00:00,Rest: Start
+2035-02-28 20:54:59.342169+00:00,Sitting
+2035-02-28 20:55:05.344891+00:00,Comment: Location A
+2035-02-28 20:59:53.915635+00:00,Rest: Stop
+2035-02-28 21:00:01.045216+00:00,Cognitive: Introduction
+2035-02-28 21:00:53.401439+00:00,Standing
+2035-02-28 21:01:01.201884+00:00,Walking
+2035-02-28 21:01:06.068839+00:00,Standing
+2035-02-28 21:01:53.948450+00:00,Cognitive: Start
+2035-02-28 21:03:07.374325+00:00,Cognitive: Mistake
+2035-02-28 21:04:10.046524+00:00,Cognitive: Mistake
+2035-02-28 21:05:31.179259+00:00,Cognitive: Mistake
+2035-02-28 21:06:15.148850+00:00,Cognitive: Mistake
+2035-02-28 21:06:29.623630+00:00,Cognitive: Mistake
+2035-02-28 21:06:40.188178+00:00,Cognitive: Mistake
+2035-02-28 21:06:57.935787+00:00,Cognitive: Stop
+2035-02-28 21:07:09.907927+00:00,Walking
+2035-02-28 21:07:17.403173+00:00,Sitting
+2035-02-28 21:07:19.761512+00:00,Self-Report: Start
+2035-02-28 21:07:33.441627+00:00,Self-Report: Stop
+2035-02-28 21:08:04.893991+00:00,Rest: Start
+2035-02-28 21:08:46.559067+00:00,Comment: Cognitive test in Location B
+2035-02-28 21:09:04.683920+00:00,Comment: Rest phase and Debriefing in Location A
+2035-02-28 21:10:10.328400+00:00,Sitting
+2035-02-28 21:13:13.085991+00:00,Rest: Stop
+2035-02-28 21:16:53.324346+00:00,Debriefing/Recovery Stop (End of Experiment)
