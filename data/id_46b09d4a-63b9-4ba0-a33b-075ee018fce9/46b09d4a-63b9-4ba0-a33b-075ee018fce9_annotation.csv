@@ -1,0 +1,62 @@
+timestamp,Button Name
+2035-03-13 20:11:42.370117+00:00,Baseline Start (Start of Experiment)
+2035-03-13 20:14:00.093089+00:00,Sitting
+2035-03-13 20:14:06.277556+00:00,Comment: Location A
+2035-03-13 20:21:45.107088+00:00,Baseline Stop
+2035-03-13 20:21:55.393202+00:00,Self-Report: Start
+2035-03-13 20:22:01.585241+00:00,Self-Report: Stop
+2035-03-13 20:22:03.352907+00:00,Public Speaking: Introduction
+2035-03-13 20:23:57.148987+00:00,Public Speaking: Preparation Start
+2035-03-13 20:24:08.134455+00:00,Sitting
+2035-03-13 20:24:12.220581+00:00,Comment: Location A
+2035-03-13 20:29:03.706652+00:00,Public Speaking: Preparation Stop
+2035-03-13 20:29:09.627081+00:00,Standing
+2035-03-13 20:29:12.056375+00:00,Walking
+2035-03-13 20:29:53.473706+00:00,Standing
+2035-03-13 20:29:55.194584+00:00,Public Speaking Start
+2035-03-13 20:33:10.264033+00:00,Comment: unter 5 minuten
+2035-03-13 20:34:10.832821+00:00,Comment: question on leading skills
+2035-03-13 20:34:58.270905+00:00,Public Speaking Stop
+2035-03-13 20:35:06.235868+00:00,Walking
+2035-03-13 20:35:19.414274+00:00,Standing
+2035-03-13 20:35:29.774044+00:00,Sitting
+2035-03-13 20:35:34.198655+00:00,Self-Report: Start
+2035-03-13 20:36:04.370575+00:00,Self-Report: Stop
+2035-03-13 20:37:13.944248+00:00,Standing
+2035-03-13 20:37:42.972618+00:00,Rest: Start
+2035-03-13 20:42:48.588791+00:00,Rest: Stop
+2035-03-13 20:42:53.315294+00:00,Physical: Introduction
+2035-03-13 20:45:05.124288+00:00,Physical: Start
+2035-03-13 20:45:11.299711+00:00,Physical: Warmup
+2035-03-13 20:47:12.259523+00:00,Physical: Intensity increase
+2035-03-13 20:49:17.799933+00:00,Physical: Intensity increase
+2035-03-13 20:49:42.693275+00:00,Comment: fast walking
+2035-03-13 20:51:21.842124+00:00,Physical: Intensity increase
+2035-03-13 20:51:50.687442+00:00,Comment: jogging
+2035-03-13 20:53:22.421493+00:00,Physical: Stop
+2035-03-13 20:53:31.933366+00:00,Physical: Stop
+2035-03-13 20:53:33.613293+00:00,Standing
+2035-03-13 20:53:48.642304+00:00,Sitting
+2035-03-13 20:54:02.139224+00:00,Comment: drinking
+2035-03-13 20:54:44.950269+00:00,Self-Report: Start
+2035-03-13 20:55:03.816383+00:00,Self-Report: Stop
+2035-03-13 20:55:19.325428+00:00,Self-Report: Stop
+2035-03-13 20:55:44.232224+00:00,Rest: Start
+2035-03-13 20:55:50.424562+00:00,Sitting
+2035-03-13 21:00:47.159797+00:00,Rest: Stop
+2035-03-13 21:01:02.435698+00:00,Cognitive: Introduction
+2035-03-13 21:02:30.721138+00:00,Standing
+2035-03-13 21:02:31.675594+00:00,Walking
+2035-03-13 21:03:30.963852+00:00,Cognitive: Start
+2035-03-13 21:06:51.446914+00:00,Cognitive: Mistake
+2035-03-13 21:07:08.134374+00:00,Cognitive: Mistake
+2035-03-13 21:07:17.917265+00:00,Cognitive: Mistake
+2035-03-13 21:08:31.173318+00:00,Cognitive: Stop
+2035-03-13 21:08:37.774261+00:00,Standing
+2035-03-13 21:09:36.957294+00:00,Self-Report: Start
+2035-03-13 21:09:43.668809+00:00,Self-Report: Stop
+2035-03-13 21:10:07.535773+00:00,Rest: Start
+2035-03-13 21:11:19.706563+00:00,"Comment: other employees/ researchers not affiliated with the experiment were talking during the cognitive task, which were irritating according to the participant"
+2035-03-13 21:15:13.241735+00:00,Rest: Stop
+2035-03-13 21:15:17.918468+00:00,Debriefing/Recovery Start
+2035-03-13 21:22:13.951094+00:00,Debriefing/Recovery Stop (End of Experiment)
