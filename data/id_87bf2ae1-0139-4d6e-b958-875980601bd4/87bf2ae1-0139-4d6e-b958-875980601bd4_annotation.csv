@@ -1,0 +1,52 @@
+timestamp,Button Name
+2035-03-06 20:08:59.817927+00:00,Baseline Start (Start of Experiment)
+2035-03-06 20:09:54.768216+00:00,Sitting
+2035-03-06 20:10:05.284271+00:00,Comment: Location A
+2035-03-06 20:19:08.072838+00:00,Baseline Stop
+2035-03-06 20:19:20.618238+00:00,Self-Report: Start
+2035-03-06 20:19:49.244445+00:00,Sitting
+2035-03-06 20:19:59.583073+00:00,Self-Report: Stop
+2035-03-06 20:20:03.663404+00:00,Standing
+2035-03-06 20:20:59.504684+00:00,Physical: Introduction
+2035-03-06 20:21:15.147668+00:00,Physical Start
+2035-03-06 20:23:19.434940+00:00,Physical: Intensity increase
+2035-03-06 20:25:19.622109+00:00,Physical: Intensity increase
+2035-03-06 20:27:25.627520+00:00,Physical: Intensity increase
+2035-03-06 20:29:30.115906+00:00,Physical: Stop
+2035-03-06 20:30:21.796315+00:00,Self-Report: Start
+2035-03-06 20:31:00.745454+00:00,Self-Report: Stop
+2035-03-06 20:31:34.864003+00:00,Rest: Start
+2035-03-06 20:34:32.696364+00:00,Sitting
+2035-03-06 20:34:54.433544+00:00,Comment: heavy breathing
+2035-03-06 20:36:35.590800+00:00,Rest: Stop
+2035-03-06 20:36:47.034651+00:00,Cognitive: Introduction
+2035-03-06 20:36:52.222134+00:00,Standing
+2035-03-06 20:36:53.160370+00:00,Walking
+2035-03-06 20:38:38.449949+00:00,Cognitive: Start
+2035-03-06 20:39:49.163752+00:00,Cognitive: Mistake
+2035-03-06 20:42:32.297318+00:00,Cognitive: Mistake
+2035-03-06 20:43:03.394311+00:00,Cognitive: Mistake
+2035-03-06 20:43:38.346776+00:00,Cognitive: Stop
+2035-03-06 20:43:45.784417+00:00,Walking
+2035-03-06 20:43:59.094152+00:00,Self-Report: Start
+2035-03-06 20:44:37.606162+00:00,Self-Report: Stop
+2035-03-06 20:44:45.877036+00:00,Rest: Start
+2035-03-06 20:45:38.267681+00:00,Comment: the second to last mistake wasn't logged during the cognitive test
+2035-03-06 20:45:56.788711+00:00,Sitting
+2035-03-06 20:49:49.553827+00:00,Rest: Stop
+2035-03-06 20:50:01.037168+00:00,Public Speaking: Introduction
+2035-03-06 20:51:27.002513+00:00,Public Speaking: Preparation Start
+2035-03-06 20:56:30.124054+00:00,Public Speaking: Preparation Stop
+2035-03-06 20:56:33.578319+00:00,Standing
+2035-03-06 20:56:36.914676+00:00,Walking
+2035-03-06 20:56:58.060523+00:00,Public Speaking Start
+2035-03-06 21:01:08.917613+00:00,Comment: unter 5 minuten
+2035-03-06 21:02:00.246343+00:00,Public Speaking Stop
+2035-03-06 21:02:14.103428+00:00,Walking
+2035-03-06 21:02:29.293938+00:00,Self-Report: Start
+2035-03-06 21:03:35.819063+00:00,Self-Report: Stop
+2035-03-06 21:07:48.481038+00:00,Sitting
+2035-03-06 21:08:19.137166+00:00,Comment: rest:start denotes the stop of the self-report
+2035-03-06 21:08:41.620274+00:00,Rest: Stop
+2035-03-06 21:08:44.353173+00:00,Debriefing/Recovery Start
+2035-03-06 21:14:41.337469+00:00,Debriefing/Recovery Stop (End of Experiment)
